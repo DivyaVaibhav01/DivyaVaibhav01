@@ -19,6 +19,8 @@
 
 ---
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DivyaVaibhav01&show_icons=true&theme=radical&bg_color=0A0E17&title_color=00D4FF&icon_color=FFD93D&border_color=00D4FF" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaVaibhav01&theme=radical&background=0A0E17&stroke=00D4FF&ring=00D4FF&fire=FFD93D" width="48%"> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaVaibhav01&layout=compact&theme=radical&bg_color=0A0E17&title_color=00D4FF&border_color=00D4FF" width="48%"> <img src="https://github-profile-trophy.vercel.app/?username=DivyaVaibhav01&theme=radical&no-frame=true&row=1&column=6" width="48%"></div>
+
 ## 🧬 About Me
 
 ```javascript
