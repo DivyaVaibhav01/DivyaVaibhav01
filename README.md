@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaVaibhav01&theme=react-dark&bg_color=0A0E17&color=00D4FF&line=FFD93D&point=6BCF7F&border_color=00D4FF" width="95%"></div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,nodejs,bun,express,graphql,tensorflow,docker,kubernetes,redis,postgres,mongodb,git,linux,aws" /></div>
 
 ## 🧬 About Me
 
