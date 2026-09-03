@@ -2,9 +2,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vaibhav%20Dev&fontSize=90&fontColor=fff&animation=fadeIn" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=⚡+Full-Stack+Developer;🧠+AI+Enthusiast;🚀+Open+Source+Contributor;🌐+Building+the+Future" alt="Typing SVG" />
-  
-  <br/>
   
   <img src="https://img.shields.io/badge/🚀_Status-Coding_in_24/7_Mode-00D4FF?style=for-the-badge&labelColor=0A0E17" alt="Status">
   <img src="https://img.shields.io/badge/💻_Projects-12+-FFD93D?style=for-the-badge&labelColor=0A0E17" alt="Projects">
