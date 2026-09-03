@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaibhav%20Dev&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Full-Stack+Developer;🧠+AI+Enthusiast;🚀+Open+Source+Contributor" alt="Typing SVG" />
+
   
   <br/>
   
