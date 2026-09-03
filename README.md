@@ -19,8 +19,6 @@
 
 ---
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,nodejs,bun,express,graphql,tensorflow,docker,kubernetes,redis,postgres,mongodb,git,linux,aws" /></div>
-
 ## 🧬 About Me
 
 ```javascript
@@ -36,5 +34,11 @@ const vaibhav = {
     tools: ["Docker", "Redis", "PostgreSQL"]
   }
 };
+```
+
+
+## Experience
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,nodejs,bun,express,graphql,tensorflow,docker,kubernetes,redis,postgres,mongodb,git,linux,aws" /></div>
+
 
 ```
