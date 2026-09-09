@@ -25,13 +25,12 @@
 const vaibhav = {
   title: "Full-Stack Developer & AI Enthusiast",
   location: "🌍 India",
-  current: "⚡ Building Project-X Agent",
   skills: {
-    languages: ["JavaScript", "TypeScript", "Python", "Go"],
-    frontend: ["React", "Next.js", "Xterm.js"],
+    languages: ["JavaScript", "TypeScript", "Python", "c++"],
+    frontend: ["Svelte", "Next.js", "next.js"],
     backend: ["Node.js", "Bun", "Express"],
     ai: ["OpenAI", "LangChain", "TensorFlow"],
-    tools: ["Docker", "Redis", "PostgreSQL"]
+    tools: ["Docker", "Redis", "PostgreSQL", "SQLite", "MognoDB"]
   }
 };
 ```
