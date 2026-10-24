@@ -17,25 +17,22 @@ const vaibhav = {
 
 
 ## Experience
-<h3>Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,c,python" />
+  <img src="https://ren0va.amaanworks.me/icons?i=js,ts,python&theme=dark&perline=10" alt="Languages" />
 </div>
 
-<h3>Frameworks & Libraries</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,nodejs,bun,express" />
+  <img src="https://ren0va.amaanworks.me/icons?i=svelte,react,nextjs,nodejs,bun,express&theme=dark&perline=10" alt="Frameworks" />
 </div>
 
-<h3>Databases</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,redis,postgres,mongodb,dynamodb" />
+  <img src="https://ren0va.amaanworks.me/icons?i=sqlite,redis,postgres,mongodb,dynamodb&theme=dark&perline=10" alt="Databases" />
 </div>
 
-<h3>Tools & Platforms</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,github" />
+  <img src="https://ren0va.amaanworks.me/icons?i=docker,git,linux,aws,github&theme=dark&perline=10" alt="Tools" />
 </div>
+
 
 ## Performance Metrics
 <div align="center"> <table> <tr> <td align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px;"> <h2 style="color: #00D4FF;">⚡ Speed</h2> <h1 style="color: #00D4FF; font-size: 40px;">142ms</h1> <sub>Average Response Time</sub> <div style="background: #1A2A3F; border-radius: 5px; padding: 5px; width: 100%; margin-top: 10px;"> <div style="background: linear-gradient(90deg, #00D4FF, #6BCF7F); height: 20px; width: 95%; border-radius: 5px;"></div> </div> <sub>95% under 200ms</sub> </td> <td align="center" style="border: 2px solid #6BCF7F; border-radius: 10px; padding: 15px;"> <h2 style="color: #6BCF7F;">🎯 Accuracy</h2> <h1 style="color: #6BCF7F; font-size: 40px;">98.2%</h1> <sub>Success Rate</sub> <div style="background: #1A2A3F; border-radius: 5px; padding: 5px; width: 100%; margin-top: 10px;"> <div style="background: linear-gradient(90deg, #6BCF7F, #00D4FF); height: 20px; width: 98%; border-radius: 5px;"></div> </div> <sub>1.8% error rate</sub> </td> <td align="center" style="border: 2px solid #FFD93D; border-radius: 10px; padding: 15px;"> <h2 style="color: #FFD93D;">💾 Cache</h2> <h1 style="color: #FFD93D; font-size: 40px;">76%</h1> <sub>Cache Hit Rate</sub> <div style="background: #1A2A3F; border-radius: 5px; padding: 5px; width: 100%; margin-top: 10px;"> <div style="background: linear-gradient(90deg, #FFD93D, #FF6B6B); height: 20px; width: 76%; border-radius: 5px;"></div> </div> <sub>5min TTL</sub> </td> </tr> </table></div>
