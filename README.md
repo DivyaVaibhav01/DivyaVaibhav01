@@ -8,11 +8,23 @@
 
 ## About Me
 
-```javascript
-const vaibhav = {
-  title: "Full-Stack Developer & AI Enthusiast",
-  location: "India",
-};
+```go
+package main
+import "fmt"
+
+type Bio struct {
+	Title    string
+	Location string
+}
+
+func main() {
+	vaibhav := Bio{
+		Title:    "Full-Stack Developer & AI Enthusiast",
+		Location: "India",
+	}
+
+	fmt.Printf("%s | %s\n", vaibhav.Title, vaibhav.Location)
+}
 ```
 
 
