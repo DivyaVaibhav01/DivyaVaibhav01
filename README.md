@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaibhav%20Dev&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Divya%20Vaibhav&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
   
 </div>
 
