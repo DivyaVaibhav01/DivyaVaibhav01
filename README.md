@@ -11,14 +11,7 @@
 ```javascript
 const vaibhav = {
   title: "Full-Stack Developer & AI Enthusiast",
-  location: "🌍 India",
-  skills: {
-    languages: ["JavaScript", "TypeScript", "Python", "c++"],
-    frontend: ["Svelte", "Next.js", "next.js"],
-    backend: ["Node.js", "Bun", "Express"],
-    ai: ["OpenAI", "LangChain", "TensorFlow"],
-    tools: ["Docker", "Redis", "PostgreSQL", "SQLite", "MognoDB"]
-  }
+  location: "India",
 };
 ```
 
