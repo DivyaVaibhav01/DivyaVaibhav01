@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Divya%20Vaibhav&fontSize=70&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=75&descSize=20" width="100%"/>
-</div>
-
 ---
 
 ## About Me
