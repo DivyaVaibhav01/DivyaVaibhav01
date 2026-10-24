@@ -31,7 +31,7 @@ func main() {
 ```
 
 
-## Experience
+## 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,go,c,python" />
 </div>
