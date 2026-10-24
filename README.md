@@ -1,29 +1,32 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Divya%20Vaibhav&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Divya%20Vaibhav&fontSize=70&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=75&descSize=20" width="100%"/>
 </div>
 
 ---
 
-## About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```go
 package main
+
 import "fmt"
 
-type Bio struct {
-	Title    string
-	Location string
+type Developer struct {
+    Name     string   `json:"name"`
+    Title    string   `json:"title"`
+    Location string   `json:"location"`
+    Focus    []string `json:"focus"`
 }
 
 func main() {
-	vaibhav := Bio{
-		Title:    "Full-Stack Developer & AI Enthusiast",
-		Location: "India",
-	}
+    vaibhav := Developer{
+        Name:     "Divya Vaibhav",
+        Title:    "Full-Stack Developer & AI Enthusiast",
+        Location: "India 🇮🇳",
+        Focus:    []string{"Go", "TypeScript", "AI/ML", "Cloud"},
+    }
 
-	fmt.Printf("%s | %s\n", vaibhav.Title, vaibhav.Location)
+    fmt.Printf("%s | %s | %s\n", vaibhav.Name, vaibhav.Title, vaibhav.Location)
 }
 ```
 
