@@ -22,7 +22,7 @@ const vaibhav = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,nodejs,bun,express" />
+  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,nodejs,bun,express,astro,vue" />
 </div>
 
 <div align="center">
